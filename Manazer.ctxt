@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Manazer
+comment0.text=\r\n\ Automaticky\ posiela\ spravy\ danym\ objektom\r\n\ posunDole()\ -\ pri\ stlaceni\ klavesy\ DOWN\r\n\ posunHore()\ -\ pri\ stlaceni\ klavesy\ UP\r\n\ posunVlavo()\ -\ pri\ stlacen\ klavesy\ LEFT\r\n\ posunVpravo()\ -\ pri\ stlaceni\ klavesy\ RIGHT\r\n\ aktivuj()\ -\ pri\ stlaceni\ klavesy\ ENTER\ alebo\ SPACE\r\n\ zrus()\ -\ pri\ stlaceni\ klavesy\ ESC\r\n\ tik()\ -\ kazdych\ 0,04\ sekundy\r\n\ vyberSuradnice(x,\ y)\ -\ pri\ kliknuti\ mysou\r\n
+comment1.params=
+comment1.target=Manazer()
+comment1.text=\r\n\ Vytvori\ novy\ manazer,\ ktory\ nespravuje\ zatial\ ziadne\ objekty.\r\n
+comment2.params=objekt
+comment2.target=void\ spravujObjekt(java.lang.Object)
+comment2.text=\r\n\ Manazer\ bude\ spravovat\ dany\ objekt.\r\n
+comment3.params=selektor
+comment3.target=void\ posliSpravu(java.lang.String)
+comment4.params=selektor\ prvyParameter\ druhyParameter
+comment4.target=void\ posliSpravu(java.lang.String,\ int,\ int)
+comment5.params=
+comment5.target=void\ spracujStlaceniaKlaves()
+comment6.params=
+comment6.target=void\ spracujKliknutie()
+numComments=7

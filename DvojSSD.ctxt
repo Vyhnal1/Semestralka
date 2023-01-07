@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DvojSSD
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DvojSSD\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ rozostup\ dlzka\ sirka\ hornaHranica
+comment1.target=DvojSSD(int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getZobrazovaneCislo()
+comment3.params=
+comment3.target=void\ zobrazCislo()
+comment4.params=cislo
+comment4.target=void\ setZobrazovaneCislo(int)
+comment5.params=
+comment5.target=void\ tik()
+numComments=6
